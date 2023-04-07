@@ -6,7 +6,6 @@ ARCHIVE
 
 # Vertybės karo akivaizdoje _arba_ Why Marvel movies sometimes make me rage
 
-<font size="10">
 Prisijungimo prie blogo slaptažodį truputį pamiršau, tai todėl rašau čia.
 
 Keista, kad žmonės retai kalba apie karą. Aišku, visai galimas daiktas, kad tiesiog bijo prišnekėt to ko nereikia - vis gi tai yra labai svarbi tema valstybės akivaizdoje. Taigi viskas žmonės drįsta pasakyti, tai “Слава Україні!” ir viskas. Tačiau visi manau gerai susimąstytų, jei, ptui ptui ptui per petį, patuksenti visur kur įmanoma, neduok tu dieve, patys pakliūtų į karo situaciją. Ar tikrai visi patriotiškai kovotų už savo šalį ir (vyrai virš 18) atliktų savo pilietinę pareigą, ar tiesiog dėtų į kojas. Nesiplėsiu į moralės principus politikos akivaizdoje, čia paliksiu spręsti patiems ir galbūt susimąstyti.
@@ -24,4 +23,3 @@ O daugiau norėčiau išsiplėsti ties superherojų filmais. Neseniai žiūrėja
    Ir I’m pretty sure dauguma esat susidūrę su šiais epizodais įvairiuose filmuose. Tai sakyčiau kartais susimąstykite ir pažiūrėkite į tą patį vaizdą iš kitos perspektyvos.
 
    (Jeez, nejau kažkas skaitėt iki galo…)
-   </font>
