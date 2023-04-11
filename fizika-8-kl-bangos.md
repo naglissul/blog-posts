@@ -11,7 +11,9 @@ $&nu; = \frac{N}{t}$
 &nu; - Dažnis, Hz (kartai per sekundę); N - Svyravimų skaičius per laiko tarpą; t - laikas, s  
   
 $T = \frac{t}{N} = \frac{1}{&nu;}$  
-T - Periodas (laikas, per kurį įvyksta vienas svyravimas), s
+T - Periodas (laikas, per kurį įvyksta vienas svyravimas), s  
+  
+Amplitudė, bangos ilgis
 
 ## Theory
-Išilginės bangos (longitudial waves), skersinės bangos (transverse waves), bangų sudėtis
+Išilginės bangos (longitudial waves), skersinės bangos (transverse waves), bangų sudėtis, mechaninis rezonansas, priverstiniai ir laisvieji svyravimai, slopinamieji ir neslopinamieji svyravimai. Periodiniai svyravimai, bangos. Energija persineša, medžiaga (terpė) ne.
