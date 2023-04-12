@@ -66,4 +66,24 @@ Slopinamasis svyravimas
 
 Banga (Wallenlaenge - bangos ilgis, Periode - periodas, Abstand - atstumas arba kelias, Zeit - laikas)
 
-![Bangos du grafikai](https://i.stack.imgur.com/RI7tI.gif)
+![Bangos du grafikai](https://i.stack.imgur.com/RI7tI.gif)  
+
+## LT->EN
+- svyravimas - oscillation
+- švytuoklė - pendulum
+- banga - wave
+- skersinė - transverse
+- išilginė - longitudinal
+- slopinamasis - damped
+- bangos ilgis - wavelenght
+- atstumas - distance
+- poslinkis - displacement
+- dažnis - frequency
+- amplitudė - amplitude
+- periodas - period
+- greitis - velocity
+- kinetinė energija - kinetic energy
+- potencinė energija - potential energy
+- rezonansas - resonance
+
+
