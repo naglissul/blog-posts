@@ -49,12 +49,12 @@ Svyravimas
 
 Neslopinamasis svyravimas
 
-![Neslopinamo svyravimo grafikas](https://img.favpng.com/22/21/11/simple-harmonic-motion-pendulum-graph-of-a-function-oscillation-png-favpng-djvmpTwfLG0b74QiXUVRT7xe8.jpg)
 
+<img src="https://img.favpng.com/22/21/11/simple-harmonic-motion-pendulum-graph-of-a-function-oscillation-png-favpng-djvmpTwfLG0b74QiXUVRT7xe8.jpg" data-canonical-src="https://img.favpng.com/22/21/11/simple-harmonic-motion-pendulum-graph-of-a-function-oscillation-png-favpng-djvmpTwfLG0b74QiXUVRT7xe8.jpg" width="400" height="250" alt="Neslopinamo svyravimo grafikas"/>
 Slopinamasis svyravimas
 
 ![Slopinamojo svyravimo grafikas](https://static.wikia.nocookie.net/hscboards/images/d/db/Damped_osc.gif)
 
-Banga (Wallenlaenge - bangos ilgis, Periode - periodas)
+Banga (Wallenlaenge - bangos ilgis, Periode - periodas, Abstand - atstumas arba kelias, Zeit - laikas)
 
 ![Bangos du grafikai](https://i.stack.imgur.com/RI7tI.gif)
