@@ -43,11 +43,18 @@ Banga - svyravimas terpėje, kai energija yra pernešama iš vieno taško į kit
 
 ## Grafikai
 
-Svyravimas  
-![Svyravimo grafikas](https://www.birmingham.ac.uk/Images/undergraduate/careers/STEM/physics/SHM.png)  
-Neslopinamasis svyravimas  
-![Neslopinamo svyravimo grafikas](https://img.favpng.com/22/21/11/simple-harmonic-motion-pendulum-graph-of-a-function-oscillation-png-favpng-djvmpTwfLG0b74QiXUVRT7xe8.jpg)  
-Slopinamasis svyravimas  
-![Slopinamojo svyravimo grafikas](https://static.wikia.nocookie.net/hscboards/images/d/db/Damped_osc.gif/revision/latest/scale-to-width-down/600?cb=20160219052451)  
-Banga (Wallenlaenge - bangos ilgis, Periode - periodas)  
+Svyravimas
+
+![Svyravimo grafikas](https://www.birmingham.ac.uk/Images/undergraduate/careers/STEM/physics/SHM.png)
+
+Neslopinamasis svyravimas
+
+![Neslopinamo svyravimo grafikas](https://img.favpng.com/22/21/11/simple-harmonic-motion-pendulum-graph-of-a-function-oscillation-png-favpng-djvmpTwfLG0b74QiXUVRT7xe8.jpg)
+
+Slopinamasis svyravimas
+
+![Slopinamojo svyravimo grafikas](https://static.wikia.nocookie.net/hscboards/images/d/db/Damped_osc.gif)
+
+Banga (Wallenlaenge - bangos ilgis, Periode - periodas)
+
 ![Bangos du grafikai](https://i.stack.imgur.com/RI7tI.gif)
