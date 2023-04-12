@@ -1,5 +1,6 @@
 ---
-
+---
+---
 # Fizika 8 klasė. Mechaniniai svyravimai ir bangos
 
 ## Problems
@@ -21,7 +22,7 @@ A - amplitudė - didžiausias atstumas nuo pusiausvyros padėties, m &lambda; - 
 v = &lambda;/T = &lambda; \* &nu;  
 v - bangos greitis - bangos keteros judėjimo greitis, m/s
 
-## Definitions
+## Apibrėžimai
 
 Mechaninis svyravimas fizikinis reiškinys, apibūdinantis periodinį (pasikartojantį) pokytį (dažniausiai judėjimą), dažniausiai apie vieną pusiausvyros tašką.
 
