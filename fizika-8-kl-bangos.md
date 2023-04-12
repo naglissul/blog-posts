@@ -11,14 +11,15 @@
 
 &nu; = N/t
 
-&nu; ARBA f - Dažnis, Hz (kartai (susvyravimai) per sekundę)  
+&nu;[nu] ARBA f - Dažnis, Hz (kartai (susvyravimai) per sekundę)  
 N - svyravimų skaičius per laiko tarpą  
 t - laikas, s
 
 T = t/N = 1/&nu;
 
 T - Periodas (laikas, per kurį įvyksta vienas svyravimas), s  
-A - amplitudė - didžiausias atstumas nuo pusiausvyros padėties, m &lambda; - bangos ilgis - atstumas tarp gretimų bangos keterų, m  
+A - amplitudė - didžiausias atstumas nuo pusiausvyros padėties, m  
+&lambda;[lambda] - bangos ilgis - atstumas tarp gretimų bangos keterų, m  
   
 v = &lambda;/T = &lambda; \* &nu;  
   
