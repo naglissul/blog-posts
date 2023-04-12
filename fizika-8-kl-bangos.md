@@ -22,7 +22,7 @@ A - amplitudė - didžiausias atstumas nuo pusiausvyros padėties, m &lambda; - 
   
 v = &lambda;/T = &lambda; \* &nu;  
   
-v - bangos greitis - bangos keteros judėjimo greitis, m/s
+v - bangosm sklidimo greitis - bangos keteros judėjimo greitis, m/s
 
 ## Apibrėžimai
 
@@ -85,5 +85,5 @@ Banga (Wallenlaenge - bangos ilgis, Periode - periodas, Abstand - atstumas arba 
 - kinetinė energija - kinetic energy
 - potencinė energija - potential energy
 - rezonansas - resonance
-
+- sklidimas - propagation
 
