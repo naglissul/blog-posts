@@ -19,7 +19,9 @@ T = t/N = 1/&nu;
 
 T - Periodas (laikas, per kurį įvyksta vienas svyravimas), s  
 A - amplitudė - didžiausias atstumas nuo pusiausvyros padėties, m &lambda; - bangos ilgis - atstumas tarp gretimų bangos keterų, m  
+  
 v = &lambda;/T = &lambda; \* &nu;  
+  
 v - bangos greitis - bangos keteros judėjimo greitis, m/s
 
 ## Apibrėžimai
