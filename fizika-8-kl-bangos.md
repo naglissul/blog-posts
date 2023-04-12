@@ -5,7 +5,7 @@
 
 ## Problems
 
-[Multiple choise questions](https://www.scribd.com/document/505934804/Mechaniniai-svyravimai-ir-bangos#)
+[Multiple choice questions](https://www.scribd.com/document/505934804/Mechaniniai-svyravimai-ir-bangos#)
 
 ## Formulės ir fizikiniai dydžiai
 
@@ -26,14 +26,20 @@ v - bangos greitis - bangos keteros judėjimo greitis, m/s
 
 ## Apibrėžimai
 
-Mechaninis svyravimas fizikinis reiškinys, apibūdinantis periodinį (pasikartojantį) pokytį (dažniausiai judėjimą), dažniausiai apie vieną pusiausvyros tašką.
+Mechaninis svyravimas - fizikinis reiškinys, apibūdinantis periodinį (pasikartojantį) pokytį (dažniausiai judėjimą), dažniausiai apie vieną pusiausvyros tašką.
 
 - Privestinis - veikiamas išorinių jėgų
 - Laisvasis - veikiamas tik vidinių jėgų
 - Slopinamasis - kai amplitudė mažėja
 - Neslopinamasis - kai amplitudė išlieka ta pati
 
-Mechaninis rezonansas - fizikinis reiškinys, kai išorinių jėgų (kito svyravimo) dažniui sutampant, amplitudė labai išauga. Pvz.: supynės
+Mechaninis rezonansas - fizikinis reiškinys, kai išorinių jėgų (kito svyravimo) dažniui sutampant, amplitudė labai išauga. Pvz.: supynės  
+  
+Inercija - fizikinis reiškinys, apibūdinantis kūnų savybę išlaikyti turimą greitį (stengtis išlaikyti esamą būseną) (PIRMAS NIUTONO DĖSNIS)  
+Potencinė energija - padėties energija (aukštis)  
+Kinetinė energija - greičio energija  
+Svyravimai vyksta dėl veičiančios jėgos (švytuoklėje - sunkio jėga), kuri duoda pagreitį (ANTRAS NIUTONO DĖSNIS) bei dėl inercijos. Vykstant svyravimams svyruoja ir energijų dydžiai.  
+
 
 Banga - svyravimas terpėje, kai energija yra pernešama iš vieno taško į kitą, bet medžiaga (arba kūnas) nėra pernešama(-as).
 
