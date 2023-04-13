@@ -1,6 +1,8 @@
 ---
 ---
+
 ---
+
 # Fizika 8 klasė. Mechaniniai svyravimai ir bangos
 
 ## Problems
@@ -19,11 +21,11 @@ T = t/N = 1/&nu;
 
 T - Periodas (laikas, per kurį įvyksta vienas svyravimas), s  
 A - amplitudė - didžiausias atstumas nuo pusiausvyros padėties, m  
-&lambda;[lambda] - bangos ilgis - atstumas tarp gretimų bangos keterų, m  
-  
-v = &lambda;/T = &lambda; \* &nu;  
-  
-v - bangosm sklidimo greitis - bangos keteros judėjimo greitis, m/s
+&lambda;[lambda] - bangos ilgis - atstumas tarp gretimų bangos keterų, m
+
+v = &lambda;/T = &lambda; \* &nu;
+
+v - bangos sklidimo greitis - bangos keteros judėjimo greitis, m/s
 
 ## Apibrėžimai
 
@@ -34,13 +36,12 @@ Mechaninis svyravimas - fizikinis reiškinys, apibūdinantis periodinį (pasikar
 - Slopinamasis - kai amplitudė mažėja
 - Neslopinamasis - kai amplitudė išlieka ta pati
 
-Mechaninis rezonansas - fizikinis reiškinys, kai išorinių jėgų (kito svyravimo) dažniui sutampant, amplitudė labai išauga. Pvz.: supynės  
-  
+Mechaninis rezonansas - fizikinis reiškinys, kai išorinių jėgų (kito svyravimo) dažniui sutampant, amplitudė labai išauga. Pvz.: supynės
+
 Inercija - fizikinis reiškinys, apibūdinantis kūnų savybę išlaikyti turimą greitį (stengtis išlaikyti esamą būseną) (PIRMAS NIUTONO DĖSNIS)  
 Potencinė energija - padėties energija (aukštis)  
 Kinetinė energija - greičio energija  
-Svyravimai vyksta dėl veičiančios jėgos (švytuoklėje - sunkio jėga), kuri duoda pagreitį (ANTRAS NIUTONO DĖSNIS) bei dėl inercijos. Vykstant svyravimams svyruoja ir energijų dydžiai.  
-
+Svyravimai vyksta dėl veikiančios jėgos (švytuoklėje - sunkio jėga), kuri duoda pagreitį (ANTRAS NIUTONO DĖSNIS) bei dėl inercijos. Vykstant svyravimams svyruoja ir energijų dydžiai.
 
 Banga - svyravimas terpėje, kai energija yra pernešama iš vieno taško į kitą, bet medžiaga (arba kūnas) nėra pernešama(-as).
 
@@ -67,9 +68,10 @@ Slopinamasis svyravimas
 
 Banga (Wallenlaenge - bangos ilgis, Periode - periodas, Abstand - atstumas arba kelias, Zeit - laikas)
 
-![Bangos du grafikai](https://i.stack.imgur.com/RI7tI.gif)  
+![Bangos du grafikai](https://i.stack.imgur.com/RI7tI.gif)
 
 ## LT->EN
+
 - svyravimas - oscillation
 - švytuoklė - pendulum
 - banga - wave
@@ -87,4 +89,3 @@ Banga (Wallenlaenge - bangos ilgis, Periode - periodas, Abstand - atstumas arba 
 - potencinė energija - potential energy
 - rezonansas - resonance
 - sklidimas - propagation
-
