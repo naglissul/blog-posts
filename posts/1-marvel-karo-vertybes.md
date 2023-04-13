@@ -1,9 +1,6 @@
----
-
-LT  
-ARCHIVE  
-2023-02-18
-
+lang: LT  
+type: ARCHIVE  
+date: 2023-02-18  
 # Vertybės karo akivaizdoje _arba_ Why Marvel movies sometimes make me rage
 
 Prisijungimo prie blogo slaptažodį truputį pamiršau, tai todėl rašau čia.
