@@ -1,9 +1,9 @@
----
----
+subject: PHYSICS  
+grade: 8  
+lastUpdated: 2023-04-13  
 
----
 
-# Fizika 8 klasė. Mechaniniai svyravimai ir bangos
+# Mechaniniai svyravimai ir bangos
 
 ## Problems
 
